@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IM7c1
 - 👀 I’m interested in C programming
-- 🌱 I’m currently learning file compression(LZ77 and Huffmam).
+- 🌱 I’m currently learning file compression(LZ77 and Huffman).
 - 💞️ I’m looking to collaborate on anything related to bitwise operations.
 - 📫 How to reach me ilshatmc@gmail.com 
 
